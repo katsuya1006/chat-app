@@ -69,7 +69,7 @@ Things you may want to cover:
 | ------- | ---------- | ------------------------------ |
 | content | string     |                                |
 | user    | references | null: false, foreign_key: true |
-| romm    | references | null: false, foreign_key: true |
+| room    | references | null: false, foreign_key: true |
 
 ### Association
 
